@@ -28,17 +28,6 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
-	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://#">Go</a>, <a href="https://#">Primer</a>, <a href="https://#">React</a> and <a href="https://#">Kafka</a> among others.</li>
-		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
-			<ul>
-				<li><a href="https://#">Visual Studio Code</a></li>
-				<li><a href="https://#">Ruby on Rails</a></li>
-				<li><a href="https://#">Homebrew</a></li>
-			</ul>
-		</li>
-		<li>By the way, our <a href="https://#">documentation</a> 🤓 is also open sourced</li>
-	</ul>
 </details>
 
 ---
