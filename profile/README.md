@@ -18,9 +18,8 @@ Now that we are talking about the important things ☝️, are you contributing 
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+- [Personax CLI](https://github.com/cli/cli) - A command line tool for Personax
+- [Large File Storage](https://github.com/git-lfs/git-lfs) - A local git extension for versioning large file
 
 ### 👓 Appendix
 
@@ -43,8 +42,6 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 </details>
 
 ---
-
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
 
 <!--
 Made with 🖤
